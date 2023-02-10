@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4f89d1fcb2a24729f670",
+    "revision": "3e8c5c95a26ca2090335",
     "url": "/lvtn_client/static/css/main.928b89fa.chunk.css"
   },
   {
-    "revision": "4f89d1fcb2a24729f670",
-    "url": "/lvtn_client/static/js/main.4f89d1fc.chunk.js"
+    "revision": "3e8c5c95a26ca2090335",
+    "url": "/lvtn_client/static/js/main.3e8c5c95.chunk.js"
   },
   {
     "revision": "3c11774c00c8fe3168dd",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/lvtn_client/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "52e4acf146afde9362517f99105ba95c",
+    "revision": "e22767bd256361b303caa2eaf7cdfbc2",
     "url": "/lvtn_client/index.html"
   }
 ];
